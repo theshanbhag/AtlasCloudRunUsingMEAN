@@ -113,14 +113,16 @@ This will open a webpage application. Create some entries using UI.
 
 ![img.png](images/img12.png)
 
-
+### Results
 Once you create couple on new entries. Navigate to your atlas cluster. You should be able to see all these entries in your cluster as well.
 
 ![img.png](images/img13.png)
 
 # Conclusion:
 
+This Demo demonstrates how easily we can use MEAN stack to deploy application using cloud run.
 
 
 # Reference:
+https://cloud.google.com/blog/topics/developers-practitioners/serverless-with-cloud-run-mongodb-atlas?blaid=3288838&utm_medium=organic_social&utm_source=employee-advocacy
 
